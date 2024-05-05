@@ -48,5 +48,5 @@ To get started with the **Task Scheduling** solution repository, follow these st
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](file manager.png)  <br>![additional_image](joe_logo.png)  <br>![additional_image](solution_stacked_sign.png)  <br>![additional_image](task_scheduling.png)  <br>
+ ![additional_image](file manager.png)  <br>![additional_image](joe_logo.png)  <br>![additional_image](task_scheduling.png)  <br>
     
