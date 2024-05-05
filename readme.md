@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Task Scheduling - Schedules tasks and executes runtimes
 Schedules tasks and executes runtimes
 
@@ -9,8 +11,6 @@ Welcome to the solution **Task Scheduling** - an example for your projects
 Schedules tasks and executes runtimes
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
