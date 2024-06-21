@@ -34,7 +34,6 @@ To get started with the **Task Scheduling** solution repository, follow these st
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
-- **Secure** - All the sample solutions are secure and use synthetic data, ensuring they contain no sensitive data or information.
     
 ## Deliverables or Figures
  ![additional_image](file manager.png)  <br>![additional_image](joe_logo.png)  <br>![additional_image](task_scheduling.png)  <br>
