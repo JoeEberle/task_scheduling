@@ -39,11 +39,8 @@ To get started with the **Task Scheduling** solution repository, follow these st
  ![additional_image](file manager.png)  <br>![additional_image](joe_logo.png)  <br>![additional_image](task_scheduling.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
