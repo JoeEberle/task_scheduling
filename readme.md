@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Task Scheduling 
-    ## Schedules tasks and executes runtimes
+    
+# Task Scheduling 
+
+## Schedules tasks and executes runtimes
+
     ![Image image_filename](code.png)
 Welcome to the solution **Task Scheduling** - an example for your projects
 
@@ -25,9 +28,9 @@ To get started with the **Task Scheduling** solution repository, follow these st
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Task Scheduling** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -37,6 +40,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](file manager.png)  <br>![additional_image](joe_logo.png)  <br>![additional_image](task_scheduling.png)  <br>
