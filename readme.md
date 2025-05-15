@@ -51,13 +51,3 @@ To get started with the **Task Scheduling** solution repository, follow these st
 - ✅ **Educational** Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
     
-## List of Figures
- ![additional_image](file manager.png)  <br>![additional_image](joe_logo.png)  <br>![additional_image](task_scheduling.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
-    
